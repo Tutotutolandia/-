@@ -1,0 +1,13 @@
+[
+ {
+ "run": "21142463-k",
+ "nombre": "Tuto",
+ "apellido": "Landia",
+ "direccion": "Inacap",
+ "fono": 54611414,
+ "correo":"diego@inacap.cl",
+ "montoCredito": 9999999,
+ "deuda":666,
+ "tipo": 6
+ }
+]
